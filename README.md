@@ -7,7 +7,7 @@ Short script ps1 for remove the unnecessary part on Windows 10
 I do not take responsibility for what may happen to your system. This is at your own risk.
 Think to check the Ninite app part (programm that make you install automatically few programms) and adapt it to what you need/use/want.
 
-# How To Run the OptimizationWindowsV2.ps1 file :
+# How to run the OptimizationWindowsV2.ps1 file :
 
   1. Download the .zip file on the main page of the github and extract the .zip file to your desired location.
   2. Once extracted, open PowerShell ISE as an Administrator (Really important).
